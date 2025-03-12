@@ -1,0 +1,7 @@
+# Sample configuration file for token_vis
+
+# List of additional token separators to be highlighted
+extra_separators = []
+
+# List of tokens to be removed (ignored during tokenization)
+removed_separators = []
