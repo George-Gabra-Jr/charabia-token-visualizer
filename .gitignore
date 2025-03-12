@@ -1,1 +1,25 @@
-/target
+# Compiler output
+/target/
+
+# Cargo package manager
+# (Uncomment Cargo.lock for libraries if needed)
+# Cargo.lock
+
+# Build artifacts
+*.rlib
+*.dSYM/
+
+# Rust backup files
+**/*.rs.bk
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+
+# Example Files
+/trial
